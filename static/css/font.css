@@ -1,0 +1,18 @@
+@font-face {
+  font-family: avenir;
+  src: url(/static/font/Avenir-Medium.ttf);
+}
+
+@font-face {
+  font-family: avenirb;
+  src: url(/static/font/Avenir-Medium.ttf);
+  font-weight: bold;
+}
+
+html {
+  font-family: avenir;
+}
+
+body {
+  font-family: avenirb;
+}
